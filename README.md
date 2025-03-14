@@ -3,7 +3,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./data/Domaine_des_croix.png" alt="Domaine des Croix" width="400">
+  <img src="./data/Domaine_des_croix.png" alt="Domaine des Croix" width="300">
 </div>
 
 <br><br>
@@ -37,16 +37,16 @@ Les résultats sont présentés sous la forme d’un **tableau de bord dynamique
 
 <table align="center">
   <tr>
-    <td><img src="./data/rapport1.png" alt="rapport1" width="400"></td>
-    <td><img src="./data/rapport2.png" alt="rapport2" width="400"></td>
+    <td><img src="./data/rapport1.png" alt="rapport1" width="500"></td>
+    <td><img src="./data/rapport2.png" alt="rapport2" width="500"></td>
   </tr>
   <tr>
-    <td><img src="./data/rapport3.png" alt="rapport3" width="400"></td>
-    <td><img src="./data/rapport4.png" alt="rapport4" width="400"></td>
+    <td><img src="./data/rapport3.png" alt="rapport3" width="500"></td>
+    <td><img src="./data/rapport4.png" alt="rapport4" width="500"></td>
   </tr>
   <tr>
-    <td><img src="./data/rapport5.png" alt="rapport5" width="400"></td>
-    <td><img src="./data/rapport6.png" alt="rapport6" width="400"></td>
+    <td><img src="./data/rapport5.png" alt="rapport5" width="500"></td>
+    <td><img src="./data/rapport6.png" alt="rapport6" width="500"></td>
   </tr>
 </table>
 
